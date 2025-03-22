@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.106.89.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742671231517
+  login: 1742672756333
+money: '0'
+last-account-name: MauGP
+logoutlocation:
+  world: 52f60663-406f-4d91-8f17-73b74977a57d
+  world-name: world
+  x: 250.78514724878798
+  y: 108.0
+  z: 30.039080089089254
+  yaw: 106.45068359375
+  pitch: 14.226092338562012
