@@ -256,3 +256,36 @@ java.lang.NoSuchMethodError: 'void org.yaml.snakeyaml.parser.ParserImpl.<init>(o
 [17:26:33] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
 [17:26:33] [Craft Scheduler Thread - 3 - StaffPlus/INFO]: [StaffPlus] You are using the latest version thanks
 [18:26:32] [Server thread/INFO]: [Staff+] Staff+ is now auto saving...
+[18:48:51] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Destrutorisaac
+[18:48:51] [localSession-7-2/INFO]: [Geyser-Spigot] Destrutorisaac (logged in as: Destrutorisaac) has connected to the Java server
+[18:48:51] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .Destrutorisaac is 00000000-0000-0000-0009-01f8015f57f2
+[18:48:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Destrutorisaac joined (UUID: 00000000-0000-0000-0009-01f8015f57f2)
+[18:48:53] [Server thread/INFO]: .Destrutorisaac joined the game
+[18:48:53] [Server thread/INFO]: .Destrutorisaac[/127.0.0.1:0] logged in with entity id 1 at ([world]0.5, 82.1778127786223, 30.5)
+[18:48:53] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 43.077958ms. Summary: Getting group for .Destrutorisaac
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -38.34429,0.0,-30.914779999999993
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
+[18:49:58] [Server thread/WARN]: .Destrutorisaac moved too quickly! -13.448765000000002,0.0,-10.900479999999995
