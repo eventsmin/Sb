@@ -1,0 +1,22 @@
+#----------------------------------------#
+
+# Thanks for using the plugin CeroLag! - Made by SoyMichas
+# Welcome to the configuration file, where u can manage the plugin options
+# Make sure to check important configurations for server experience as: Spawn Chunks, and clearing floor items and player collitions.
+
+#----------------------------------------#
+
+CeroLag:
+  Preffix: "&d&lCeroLag &7» " # ENG: The plugin preffix used on messages / ESP: El prefijo que usara el plugin en los mensajes
+  # -
+  SpawnChunks: false # ENG: Enable or disable spawnchunks always loaded function / ESP: Activar o desactivar que los spawnchunks esten siempre cargados, true = Activados, false = desactivados
+  # -
+  PlayerCollisions: true # ENG: Enable or disable player collisions / ESP: Activar o desactivar las colisiones entre jugadores, true = Activadas, false = desactivadas
+  # -
+  TimedItemCleaner: false # ENG: Enable or disable item timed cleaner / ESP: Activar o desactivar el borrador de items automatico, true = Activadas, false = desactivadas
+  # - 
+  TimedItemCleanerTime: 600 # ENG: Time in seconds that the Cleaner takes to clear items (600 = 10 min) / ESP: Tiempo en segundos que tarda el borrador de items automatico en funcionar
+  # -
+  TimedItemCleanerMSG1: "Los items del suelo seran eliminados en" # ENG: Message sent to warn about the time left until items are removed
+  # -
+  TimedItemCleanerMSG2: "Se han eliminado todos los items del suelo" # ENG: Message sent to alert the items where deleted

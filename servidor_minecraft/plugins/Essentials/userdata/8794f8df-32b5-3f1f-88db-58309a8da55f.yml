@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1742674837200
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1742671231517
-  login: 1742672756333
+  logout: 1742686173992
+  login: 1742686033392
 money: '0'
 last-account-name: MauGP
 logoutlocation:
   world: 52f60663-406f-4d91-8f17-73b74977a57d
   world-name: world
-  x: 250.78514724878798
-  y: 108.0
-  z: 30.039080089089254
-  yaw: 106.45068359375
-  pitch: 14.226092338562012
+  x: 3.5097147879185004
+  y: 85.74341321608179
+  z: 32.777656139664195
+  yaw: 78.80853271484375
+  pitch: 73.44251251220703
+lastlocation:
+  world: 52f60663-406f-4d91-8f17-73b74977a57d
+  world-name: world
+  x: 9.908089312053516
+  y: 83.8681370458375
+  z: 38.845340424732235
+  yaw: 27.50602912902832
+  pitch: 19.667734146118164

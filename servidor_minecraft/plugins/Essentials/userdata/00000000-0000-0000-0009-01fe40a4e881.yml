@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1742672850057
-  login: 1742672842954
+  logout: 1742673949625
+  login: 1742673847177
 money: '0'
 last-account-name: .Mau_GS8033
 logoutlocation:
   world: 52f60663-406f-4d91-8f17-73b74977a57d
   world-name: world
-  x: -3.1078987
-  y: 78.9375
-  z: 40.948967
-  yaw: -179.40533447265625
-  pitch: -14.660995483398438
+  x: -1.0818042
+  y: 71.0
+  z: -5.420763
+  yaw: -153.1079864501953
+  pitch: 7.5000457763671875
