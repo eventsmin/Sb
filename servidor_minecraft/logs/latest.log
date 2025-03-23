@@ -255,3 +255,4 @@ java.lang.NoSuchMethodError: 'void org.yaml.snakeyaml.parser.ParserImpl.<init>(o
 [17:26:33] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] You're 2 EssentialsX dev build(s) out of date!
 [17:26:33] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
 [17:26:33] [Craft Scheduler Thread - 3 - StaffPlus/INFO]: [StaffPlus] You are using the latest version thanks
+[18:26:32] [Server thread/INFO]: [Staff+] Staff+ is now auto saving...
