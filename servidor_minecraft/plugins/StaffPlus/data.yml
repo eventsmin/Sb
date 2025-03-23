@@ -1,0 +1,10 @@
+00000000-0000-0000-0009-01f8015f57f2:
+  name: .Destrutorisaac
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true

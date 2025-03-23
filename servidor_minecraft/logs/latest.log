@@ -293,3 +293,4 @@ java.lang.NoSuchMethodError: 'void org.yaml.snakeyaml.parser.ParserImpl.<init>(o
 [19:05:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Destrutorisaac disconnected
 [19:05:39] [Server thread/INFO]: .Destrutorisaac lost connection: Disconnected
 [19:05:39] [Server thread/INFO]: .Destrutorisaac left the game
+[19:26:40] [Server thread/INFO]: [Staff+] Staff+ is now auto saving...
