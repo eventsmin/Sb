@@ -289,3 +289,7 @@ java.lang.NoSuchMethodError: 'void org.yaml.snakeyaml.parser.ParserImpl.<init>(o
 [18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
 [18:49:55] [Server thread/WARN]: .Destrutorisaac moved too quickly! -37.34745,0.0,-30.55119
 [18:49:58] [Server thread/WARN]: .Destrutorisaac moved too quickly! -13.448765000000002,0.0,-10.900479999999995
+[19:05:39] [localSession-7-2/INFO]: [Geyser-Spigot] Destrutorisaac has disconnected from the Java server because of Bedrock client disconnected
+[19:05:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Destrutorisaac disconnected
+[19:05:39] [Server thread/INFO]: .Destrutorisaac lost connection: Disconnected
+[19:05:39] [Server thread/INFO]: .Destrutorisaac left the game
